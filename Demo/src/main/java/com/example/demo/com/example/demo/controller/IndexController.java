@@ -13,6 +13,8 @@ public class IndexController {
         model.addAttribute("score",20);
         model.addAttribute("name","何婷华");
         model.addAttribute("sex","女");
+        model.addAttribute("a","a");
+
         return "one";
     }
 }
