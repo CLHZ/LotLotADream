@@ -17,6 +17,7 @@ public class IndexController {
         model.addAttribute("name","陈宙晶");
         model.addAttribute("name","陈宙晶");
         model.addAttribute("name","陈宙晶");model.addAttribute("name","陈宙晶");model.addAttribute("name","陈宙晶");
+        model.addAttribute("b","b");
         return "one";
     }
 }
